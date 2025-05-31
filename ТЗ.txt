@@ -1,0 +1,99 @@
+Technical Specification: "SweetFox" Memecoin Website
+
+Project Name: SweetFox
+Token Ticker: $SWEET
+Subtitle on Main Page: LAUNCHING ON PUMP.FUN - Get Your Daily Dose of Sweetness!
+
+1. General Principles and Style:
+
+Visual Style: Bright, energetic, joyful, and incredibly friendly. Drawing inspiration from the natural hues of fox fur, sunrises, and sunsets, combined with vibrant, candy-like accent colors. Think warm oranges, golden yellows, soft peaches, contrasted with pops of playful bubblegum pink, sky blue (from the cup), emerald green (forest motifs), and whimsical purples (from the Firefox logo and sugary candy). The overall aesthetic should feel like a burst of happiness and playful mischief.
+Iconography: Adorable, cartoonish icons with soft edges, subtle gradients, and perhaps a slight "bubbly" or "squishy" feel. Foxes should be omnipresent – as small animated characters, decorative elements, and charming icons.
+Typography: A delightful blend of playful, rounded, and slightly bouncy fonts for headings (perhaps with a subtle "jelly" or "bounce" effect) and clean, highly readable fonts for body text, ensuring a friendly and inviting tone.
+Animations: An abundance of dynamic, fluid, and cheerful animations that imbue the site with a sense of "life," "sweetness," and "magic."
+2. Website Structure (Single-Page Landing Page with Sections):
+
+Hero Section (Main Screen):
+
+Background: A vibrant, gradient background shifting from sunrise orange to golden yellow to soft pink, creating a shimmering, sweet glow. Overlayed with a dynamic pattern of stylized fox tails, falling leaves, or sparkling candy sprinkles that subtly move, glitter, or gently drift.
+Center: Large, playful, and animated text: SWEETFOX. Each letter should have a gentle "wobble" or "sugar-glitter" effect, making it feel alive and inviting.
+Below it: Bright, captivating text: LAUNCHING ON PUMP.FUN - Get Your Daily Dose of Sweetness! with a soft, pulsing or swirling effect.
+Interactivity: On hover over "SWEETFOX," a small, cute fox (perhaps with candy in its paw) could quickly scurry across the text, leaving a trail of sparkling sugar dust or heart shapes.
+Call to Action: A large, prominently animated button like "Grab Your $SWEET!" or "Join the Foxy Feast!" featuring a rainbow shimmer or a "candy-pop" effect on hover.
+"About Us" Section (About SweetFox):
+
+Heading: "Unleash Your Inner Sweetness!" – with a fun animation (e.g., words playfully "bouncing" or "swirling" into place).
+A bright, uplifting description of the project, its goals, and its joyful spirit. Emphasize community, fun, and the light-hearted nature of memecoins.
+Interactivity: Perhaps in the background of the section, charming cartoon foxes might subtly appear and disappear, playfully peeking out, or one larger fox could "giggle" or "wiggle its nose" when hovering over the text.
+"Gallery / Sweet Moments" Section (Foxy Fun Gallery):
+
+Heading: "Our Foxy Superstars!" – with a neon glow effect or "candy-coated" shimmer.
+Central Feature: A colorful, animated slider or carousel of the provided fox photos (1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg). Each photo should be framed within a unique, vibrant, whimsical border (e.g., a candy wrapper, a fluffy cloud, a sparkling starburst) or feature a "polaroid snapshot" effect.
+Interactivity: When hovering over each photo, it should "pop" forward, enlarge slightly, and be surrounded by an aura of glittering sprinkles, tiny hearts, or small candy icons. Clicking on a photo could expand it to fullscreen with a short, cheerful animation sound (e.g., a "ding!" or a "pop!").
+"Our Adventures" Section (Foxy Adventures):
+
+Heading: "Tales of Sweet Mischief & Joy!" – styled like a playful scroll or a thought bubble from which a cute fox peeks.
+Five individual blocks, each with a creative heading and one of the imaginative stories. Each block should be designed like a "comic book panel" or a "page from a storybook," complete with a small, whimsical sketch illustration matching the story.
+Interactivity: Stories should be initially "hidden" – only the heading and the first line are visible by default. The full text expands with a delightful "unfolding scroll" or "opening book" effect upon clicking "Read More." As it unfolds, a cute little fox cub might peek out from behind the text.
+"Sweetonomics" (Tokenomics):
+
+Heading: "The Candy Map to $SWEET Wealth!" – adorned with an image of a treasure map leading to a "candy treasure chest" with paw prints.
+A bright, intuitively understandable explanation of token distribution, presented as an animated pie chart with colorful segments or as a "sweet candy jar" from which animated $SWEET tokens "pour" into different proportions.
+Animation: Pie chart segments could smoothly "fill up," or candy tokens could "burst" out of the jar.
+"The Foxy Path Ahead" (Roadmap):
+
+Heading: "Our Paw-some & Sweet Journey!" – featuring animated fox paw prints leading along a rainbow bridge or a sparkling pathway.
+A creative, visually appealing roadmap. Each stage is presented as a separate "floating island" or "fluffy cloud," connected by a bright, dashed line or a vibrant rainbow bridge.
+Visualization: Use small, animated icons for each stage (e.g., a fox builder, a fox astronaut, a fox DJ, each with a candy theme).
+Interactivity: When hovering over each "island," it should slightly "bounce" or "sparkle," and a detailed description of the stage appears in a delightful "thought bubble" tooltip.
+"SweetFox Squad" (Community):
+
+Heading: "Join Our Sweet Foxy Family!" – with an image of a group of happy, hugging foxes or foxes dancing together amidst candy.
+Bright, animated icons for social media (Telegram, X/Twitter, Discord, TikTok).
+Interactivity: Social media icons should be highly dynamic: on hover, they might "jump," "spin," "change color," or "release" tiny hearts or candy bits.
+Footer:
+
+Simple links to privacy policies and terms of use, styled in a bright yet readable font.
+A large, friendly copyright notice.
+Possibly a perpetually animated tiny fox cub "sitting" in the corner of the footer, occasionally "winking" or "wagging its tail," or blowing a tiny candy bubble.
+3. Animations and Interactivity (in more detail):
+
+Page Load: A vibrant, cheerful preloader featuring a swirling fox or a "candy-burst" effect that fills the screen, then gracefully "dissolves" to reveal the page with smooth, quick-appearing animations for all elements.
+Parallax Effect: Multi-layered parallax on the hero section with moving elements (sparkles, floating candy, whimsical clouds), creating a sense of depth and playful magic.
+Buttons: All buttons should boast complex hover effects: rainbow gradients, "jelly" physics, "wave" effects, or "glowing" auras.
+Icons: All icons across the site (social media, within sections) should be animated.
+Scroll: As the page scrolls, new sections should appear with fluid yet noticeable animations (e.g., "flying in" from below, "dissolving" from the center with a "candy-melt" effect, or a "rainbow" transition). A small, animated fox character could playfully "accompany" the user as they scroll down the page.
+Sound Effects: Very light, unobtrusive, but cheerful sound effects for button clicks, section opens/closes, and gallery hovers (e.g., a "ding," "pop," "short, happy fox chirp," or a gentle "sparkle" sound). A prominent "mute" button for sounds should be available.
+4. Content (5 stories, 100+ words each, in a playful, anecdotal, kind, and bright tone):
+
+Story 1: "The Wacky Washer Whiskers"
+
+Heading: "Foxy Laundry Day: The Unexpected Spa!"
+"Meet Rusty, the king of cozy spots and a connoisseur of comfort! One particularly lazy afternoon, Rusty, with his gleaming amber eyes, stumbled upon a giant, shiny metal drum in his human's 'den.' It hummed with a mysterious energy and, even better, promised a perfectly round, fur-fluffing nap spot! With a curious wiggle of his nose, Rusty curled up inside, mistaking it for the ultimate napping pod. Little did he know, this wasn't just any nap; it was the start of a legendary tale that would spread across the internet faster than a squirrel with a nut! His human later found him, perfectly content, a fluffy, reddish-orange ball nestled among the fresh towels. Rusty taught us that sometimes, the best adventures are found in the most unexpected places, and a washing machine can be a surprisingly zen sanctuary for a tired fox. Just don't let anyone press 'start'!"
+Story 2: "Yogurt Dreams & Creamy Schemes"
+
+Heading: "Operation: Snatch the Sweetness!"
+"Luna, a fox of incredibly refined tastes, had a secret obsession that shimmered brighter than any starlight: yogurt! Not just any yogurt, mind you, but the creamy, slightly sweet kind that her human always seemed to be savoring with such quiet delight. Every time that shiny little cup appeared, Luna's keen nose would twitch with anticipation, and her intelligent eyes would narrow in focused determination. This wasn't just about getting a treat; it was about the thrilling dance of polite begging mixed with an undeniable, profound longing for that dairy delight. The photo captures her mid-scheme, delicately lapping at the edge, utterly convinced she was executing the perfect, stealthy heist. Luna's pure devotion to dairy reminds us that true happiness can often be found in the simplest, creamiest pleasures, especially if they involve a spoonful of sugary goodness and a dash of mischievous foxy charm."
+Story 3: "The Legendary Loaf of Warmth"
+
+Heading: "Master of Disguise: The Breadiest Fox Alive!"
+"Winter was drawing near, painting the world in frosty whites, and one particularly clever fox, aptly named 'Ginger-loaf,' had perfected the unparalleled art of staying exquisitely warm. Forget digging complex, chilly dens; Ginger-loaf's signature move was the utterly delightful 'Perfect Fox Loaf.' He'd curl up so incredibly tightly, meticulously tucking his paws and fluffy tail beneath him, that he literally resembled a plump, perfectly baked loaf of artisanal bread, ready for a cozy tea time. The 'Me when I am cold' meme featuring him became an instant internet sensation, proving that warmth isn't just about layers; it's about ingenious technique and undeniable cuteness! Ginger-loaf could sit for hours, completely still, a fluffy, utterly edible-looking mound of pure, unadulterated coziness, radiating warmth that could melt any winter chill."
+Story 4: "Silence is Golden: The Mute Button Nose"
+
+Heading: "Flicker's Zen Moment: Finding Sweet Peace in a Noisy World."
+"Flicker, a charming fox with an incredibly finely tuned sense of hearing, often found the bustling human world overwhelmingly loud. The constant hum of cars, the endless chatter, the blare of loud music – it was all just too much for his sensitive ears! Then, one magical day, his human gently placed a finger on his tiny, soft nose and whispered a calming 'mute.' To Flicker's astonishment, a wave of profound calm washed over him! It instantly became their most cherished, secret ritual. Whenever the world felt too boisterous, Flicker would instinctively nudge his human's hand, subtly requesting the magical 'mute' touch on his nose. The iconic image captures one such serene moment, a picture of tranquil stillness amidst the delightful chaos. Flicker's story is a playful, heartwarming reminder that even the most sensitive souls yearn for moments of sweet quiet, and sometimes, true peace is just a gentle, loving touch away."
+Story 5: "The Bread-Headed Fashionista Fennec"
+
+Heading: "Pip's Fabulous Fashions: The 'Toasted' Look!"
+"Meet Pip, the tiny fennec fox with an undeniable flair for the most deliciously unconventional style! One sun-drenched morning, Pip, with his impressively oversized ears, discovered a discarded slice of wholesome bread. Most would simply see a potential breakfast; Pip, however, saw the absolute pinnacle of haute couture! With a mischievous glint sparkling in his enormous eyes, he decided, without a moment's hesitation, to try it on as a hat. The result? Pure, unadulterated comedic genius and an instant fashion sensation! Pip proudly sported his 'toasted' headpiece, strutting around the room as if he'd just walked off a high-fashion desert runway. His human, bewildered but utterly amused, quickly snapped a photo, forever immortalizing Pip's groundbreaking, carbohydrate-inspired fashion statement. Pip's daring sartorial choice delightfully proves that confidence is always the best accessory, and sometimes, the most hilarious and sweetest trends begin with a simple slice of bread and a fennec's wonderfully wild imagination!"
+5. Cursor Requirements (Textual Cursor):
+
+Default Cursor: Should be a small, bright, animated, and slightly pulsating "candy swirl" or a sparkling "sweet star," leaving a short, translucent trail.
+Interactive Element Hover Cursor: When hovering over buttons, links, expandable stories, or photos in the gallery, the cursor should transform into a tiny, animated, and utterly adorable fox cub that playfully "wags" its tail with a little sparkle or makes a sweet "hop" in place.
+6. Technical Requirements:
+
+Frontend: HTML5, CSS3 (with extensive use of CSS Variables for vibrant themes, gradients, and animations), JavaScript (for complex animations, interactive elements, slider/grid control, delightful sound effects). Employing animation libraries/frameworks like GSAP or Lottie for fluid, high-performance, and joyful animations.
+Performance: Despite the rich animations, the website must be meticulously optimized for incredibly fast loading times. Implement lazy loading for images, SVG optimization, and efficient use of CSS animations where possible, offloading from JavaScript for smoother performance.
+Responsiveness: Full and seamless adaptation across all screen sizes (mobile, tablet, desktop) while maintaining the site's vibrant energy and interactive charm.
+Solana Integration: Clear and secure integration points for connecting with the Solana blockchain, facilitating token viewing/swapping (e.g., links to DEXs like Raydium, Jupiter, or Dappie). Ensure clear disclaimers about blockchain risks.
+SEO: Comprehensive SEO optimization (meta tags, alt tags for images, semantic HTML markup) to ensure discoverability.
+Accessibility: Ensure all interactive elements are accessible to users with disabilities (e.g., keyboard navigation, ARIA attributes).
